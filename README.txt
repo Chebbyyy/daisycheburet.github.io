@@ -1,40 +1,125 @@
-Prologue by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Daisy Cheburet – Personal Portfolio
+
+Project Overview
+
+This is my personal portfolio website, designed to showcase my skills, background, achievements, and projects in technology and design. Built with clean HTML and CSS, the site highlights my interests and work in IT and graphic design.
+
+About Me
+
+I’m Daisy Cheburet, a passionate Information Technology student at KCA University with a strong interest in frontend development and graphic design. I thrive on creating visually appealing, user-friendly digital experiences. I am driven by a love for technology, creative problem-solving, and the ever-evolving tech world.
+
+Technology Stack
+
+HTML5
+
+CSS3
+
+Responsive Design Techniques
+
+Git & GitHub for version control
+
+Programming Languages
+
+HTML
+
+CSS
+
+JavaScript (basic understanding)
+
+Python
+
+SQL
+
+Educational Background
+
+Bachelor of Science in Information Technology – KCA University
+Download CV (PDF) (ensure your CV file is placed correctly in the assets folder)
+
+Interests
+
+Frontend Web Development
+
+UI/UX Design
+
+Graphic Design (Posters, logos, branding)
+
+Creative coding and tech for social impact
+
+Featured Projects
+
+1. Graphic Design Samples
+
+Posters, flyers, social media designs – created using Canva and Adobe tools.
+View Designs or add live links to specific designs.
+
+2. Student IT Management System (Mockup)
+
+A conceptual project showcasing a basic student records system interface using HTML/CSS.
+
+3. Personal Website
+
+The website you are viewing now – built entirely from scratch to demonstrate my skills.
+
+Contact Me
+
+Feel free to connect with me:
+
+Email: cheburetdaiys65@gmail.com
+
+🌐 GitHub
+
+📱 Instagram
+
+🐦 Twitter
+
+🎵 TikTok
+
+📄 Documentation
+
+The project includes:
+
+Clear code comments for each section
+
+Organized file structure (images, assets, etc.)
+
+This detailed README.md
+
+Deployment
+
+Hosted on GitHub Pages:
+🔗 https://chebbyyy.github.io/daisycheburet.portfolio/
+
+✅ Evaluation Criteria Checklist
+
+Criteria
+
+Included ✅
+
+Creativity & Ingenuity
+
+✅ Unique layout, custom styling
+
+Code Quality
+
+✅ Clean HTML & CSS structure
+
+Documentation
+
+✅ This file + code comments
+
+Deployment
+
+✅ GitHub Pages hosted
+
+Development Process
+
+✅ Individual development, version controlled
+
+Technology Stack
+
+✅ HTML, CSS, responsive design
+
+Thank you for reviewing my work! I’m excited about the future of tech and where this journey will take me. 🌱
 
 
-This is Prologue, a simple, single page responsive site template. It features a
-clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
 
-Demo content images* are courtesy of the ridiculously talented Felicia Simion. Check out
-more of her amazing work over at deviantART:
-
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-Demo banner images* courtesy of Unsplash, a radtastic collection of CC0 (public domain)
-images you can use for pretty much whatever.
-
-(* = Not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
